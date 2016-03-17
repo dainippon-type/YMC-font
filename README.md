@@ -3,11 +3,13 @@
 
 3色の文字を重ね、透過させることにより、可読性のある文字が表示されます。
 Illustratorなどの透明度設定「乗算」を使ったり
-透明フィルムにプリントアウトするなどして、お楽しみください。
+透明フィルムにプリントアウトするなどして、お楽しみください。  
 
+[ダウンロードはこちらから](https://github.com/dainippon-type/YMC-font/releases)
 
 - `YMC-fonts-TrueType` TrueType形式のフォントファイルです。
 - `YMC-fonts-Type1` Type1形式のフォントファイルです
+- OpenType形式のフォントファイルは[こちら](https://github.com/dainippon-type/YMC-reunion)から
 
 ## YMC-alphabet
 アルファベットが入力できます。
