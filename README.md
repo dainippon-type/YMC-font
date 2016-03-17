@@ -10,6 +10,7 @@ Illustratorなどの透明度設定「乗算」を使ったり
 - `YMC-fonts-Type1` Type1形式のフォントファイルです
 
 ## YMC-alphabet
+アルファベットが入力できます。
 
 - `YMC-alphabet Yellow`    必ず文字色をイエローにしてお使いください。
 - `YMC-alphabet Magenta`   必ず文字色をマゼンタにしてお使いください。
@@ -17,6 +18,8 @@ Illustratorなどの透明度設定「乗算」を使ったり
 
 
 ## YMC-kana
+JISキーボードのキートップに印字されている「かな」に沿って入力することにより、かなが表示されます。  
+※ （かなの印字されたJISキーボード推奨）
 
 - `YMC-kana Yellow`        必ず文字色をイエローにしてお使いください。
 - `YMC-kana Magenta`       必ず文字色をマゼンタにしてお使いください。
